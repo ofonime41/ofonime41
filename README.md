@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ofonime41
 - 👀 I’m interested in front End Development, Designs and Data Analysis
-- 🌱 I’m currently learning Front End Development
+- 🌱 I have knowledge of HTML,CSS,BOOTSTRAP,TAILWIND AND VUE.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me on twitter @achristiana41
 
 <!---
 ofonime41/ofonime41 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
