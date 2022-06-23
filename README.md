@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ofonime41
+- 👋 Hi, I’m Christiana (@ofonime41)
 - 👀 I’m interested in front End Development, Designs and Data Analysis
 - 🌱 I have knowledge of HTML, CSS, BOOTSTRAP, Javascript, TAILWIND AND VUE.
 - 💞️ I’m looking to collaborate on ...
