@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Christiana (@ofonime41)
-- 👀 I’m interested in software development and Data Analysis
-- 🌱 I have knowledge of HTML, CSS, BOOTSTRAP, Javascript, TAILWIND AND VUE, Nuxt.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on twitter @achristiana41
+## Hello, Welcome to my Githubpage :hugs:
+- 👀 I’m interested in software development, block programming and Data Analysis
+- 🌱 I have knowledge of HTML, CSS, BOOTSTRAP, Javascript, TAILWIND AND VUE,Nuxt, Scratch.
 
 <!---
 ofonime41/ofonime41 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
