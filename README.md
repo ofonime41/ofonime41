@@ -1,5 +1,5 @@
 ## Hello, Welcome to my Githubpage :hugs:
-- #### Currently exploring AI/ML  its applications in education.
+- #### Currently exploring AI/ML  its applications.
 - #### I design and build webpages using programming lanuguages, frameworks and tools like Javascript, Vuejs,Nuxtjs, TailWind, Bootstrap,Css,Html.
 - #### I also use and teach block programming using Scratch.
 - Here is a link to some of my pet projects:
