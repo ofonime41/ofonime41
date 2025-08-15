@@ -1,7 +1,7 @@
 ## Hello, Welcome to my Githubpage :hugs:
 - #### Currently exploring AI/ML  its applications.
 - #### I design and build webpages using programming lanuguages, frameworks and tools like Javascript, Vuejs,Nuxtjs, TailWind, Bootstrap,Css,Html.
-- #### I also use and teach block programming using Scratch.
+- #### I also use and teach block programming using Scratch and application of AI and machinelearning using teachable machine and other tools.
 - Here is a link to some of my pet projects:
      [sneaker collection](https://sneakers-ecommerce123.netlify.app/), 
      [weather app]()
